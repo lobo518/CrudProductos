@@ -1,0 +1,9 @@
+
+.alert-success {
+  transition: opacity 1s ease; 
+  opacity: 1; 
+}
+
+.hidden {
+  opacity: 0; 
+}
